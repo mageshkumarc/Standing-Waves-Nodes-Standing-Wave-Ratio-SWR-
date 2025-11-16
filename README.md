@@ -1,6 +1,7 @@
 # Standing Waves, Nodes & Standing Wave Ratio (SWR)
 # INTRODUCTION
-  Standing waves are formed when incident and reflected waves combine along a transmission line.
+
+Standing waves are formed when incident and reflected waves combine along a transmission line.
 These waves create fixed points called nodes and antinodes.
 The ratio of maximum to minimum voltage in these standing waves is called Standing Wave Ratio (SWR).
 SWR is extremely important in RF systems because it indicates how efficiently power travels from a transmitter to an antenna.
@@ -11,7 +12,7 @@ Understanding standing waves helps engineers design efficient communication syst
 
 
 # OVERVIEW
-  Standing waves occur due to impedance mismatch between the transmission line and load.
+Standing waves occur due to impedance mismatch between the transmission line and load.
 This creates periodic maxima and minima along the line.
 Nodes = no movement, Antinodes = maximum movement.
 SWR measures how severe standing waves are.
@@ -98,7 +99,7 @@ Calculates SWR with extremely high precision
 Displays results as Smith charts, reflection plots, and SWR curves         
 Used in 5G systems, radar, satellite, and professional RF design labs         
 
-# APPLICATION
+# APPLICATIONS
 
 ## 1. Antenna Tuning and Optimization
 Standing waves help engineers adjust antenna length and structure to achieve the lowest possible SWR.
