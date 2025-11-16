@@ -55,6 +55,49 @@ Used to calculate SWR directly.
 
 Simplest way to measure SWR using maxima & minima of standing waves.
 
+# SWR MEASUREMENT TECHNIQUES
+
+## 1. SWR Meter (Standing Wave Ratio Meter)
+
+An SWR meter is the simplest and most commonly used device for measuring SWR in radio systems.
+
+<img width="284" height="177" alt="image" src="https://github.com/user-attachments/assets/7527ba9e-7889-4ee1-bd2a-9fea82bee462" />
+
+#### Key Points:
+
+Placed between the transmitter and antenna    
+Measures forward power and reflected power    
+Calculates SWR based on their ratio    
+Used in FM stations, ham radios, walkie-talkies, and RF labs   
+
+## 2. Directional Coupler Method
+
+A directional coupler is a passive device used to separate forward and reflected waves.
+
+<img width="269" height="187" alt="image" src="https://github.com/user-attachments/assets/0fdfc34f-5859-4519-90c0-228e8c7ecb0f" />
+
+
+#### Key Points:
+
+Has separate output ports for forward and reverse power        
+Gives more accurate readings than simple SWR meters        
+Used in microwave labs and high-frequency circuits        
+Essential for power monitoring in transmitters    
+
+## 3. Vector Network Analyzer (VNA)
+
+A VNA is the most advanced and accurate instrument for SWR measurement.
+
+<img width="256" height="197" alt="image" src="https://github.com/user-attachments/assets/9fd6f5bf-be56-4be2-b067-138260f1514c" />
+
+
+#### Key Points:
+
+Measures reflection coefficient (Γ), S-parameters, and phase         
+Calculates SWR with extremely high precision         
+Displays results as Smith charts, reflection plots, and SWR curves         
+Used in 5G systems, radar, satellite, and professional RF design labs         
+
 # APPLICATION
 
 ## 1. Antenna Tuning and Optimization
